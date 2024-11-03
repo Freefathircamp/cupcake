@@ -6,16 +6,11 @@ The order details get displayed on an order summary screen and can be shared to 
 send the order.
 
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+## Result 
+![image](https://github.com/user-attachments/assets/fa3da9b3-b712-462c-adfd-d7cd068eab84)
+![image](https://github.com/user-attachments/assets/ca6a1a00-0a8e-4f0d-9bb4-15637de9affd)
+![image](https://github.com/user-attachments/assets/9b226721-f141-412a-be3b-d245ca2c897f)
+![image](https://github.com/user-attachments/assets/42ce227c-40a1-49f3-8bcf-5db012c75924)
 
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+
